@@ -1,2 +1,8 @@
 # imps-analysis
-Produces a spreadsheet containing an analysis of the IMPS database
+
+To run locally:
+
+```
+pip install -r requirements.txt
+jupyter notebook
+```
