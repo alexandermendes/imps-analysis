@@ -1,4 +1,4 @@
-Collection,Code,Description,Old Common Term,New Common Term,Order To,Can Be Ordered By
+Collection,Code,Description,Old Common Term,Access,Order To,Can Be Ordered By
 ,GEN,General - interavailable modern printed monographs,,,All RRs,All users
 ,EAR,Interavailable level 2 material,,,"A&AS, RB&M, MSS, Maps",All users
 ,SS1,Social Sciences Collection Material Level 1,,,Science,SPIS Requesting
@@ -32,3 +32,18 @@ Western MSS,ZSF,Z Safe Manuscript Material,Z Safe,Highly Restricted ,"MSS, speci
 ,TMU,Boston Spa Theses Unit,,,,
 ,SSC,Social Sciences Collection Material,,,,
 ,SS1,Social Sciences Collection Material Level 1,,,,
+,BSM,,,,,
+,RR2,,,,,
+,DSM,,,,,
+,DSS,,,,,
+,BSS,,,,,
+,MSP,,,,,
+,SSI,,,,,
+,RM2,,,,,
+,SUR,,,,,
+,RO2,,,,,
+,WX3,,,,,
+,WX2,,,,,
+,MFM,,,,,
+,RES,,,,,
+,NEW,,,,,
