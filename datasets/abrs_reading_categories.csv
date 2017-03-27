@@ -8,26 +8,26 @@ APAC,RO1,AAS - level 2 material,,Standard Access,"A&AS, any desks",All Users
 APAC,RO3,AAS  - Very Select - level 2 material,,Standard Access,"A&AS, specified desks",All Users
 APAC,WXY,AAS  - Very Select Maps Material,,,,
 APAC,ROX,AAS - Restricted Material Level 1,,Restricted,"A&AS, specified desks",Upgraded Staff Member
-APAC,ROZ,AAS - Restricted Material Level 2,,Highly Restricted ,"A&AS, specified desks",Senior Staff Member
+APAC,ROZ,AAS - Restricted Material Level 2,,Highly Restricted,"A&AS, specified desks",Senior Staff Member
 Maps,RM1,Maps - level 2 material,,Standard Access,"Maps, any desks",All Users
 Maps,RM3,Maps - Very Select - level 2 material,,Standard Access,"Maps, specified desks",All Users
-Maps,RMX,Maps Restricted Material Level 1,,Restricted ,"Maps, specified desks",Upgraded Staff Member
-Maps,RMZ,Maps Restricted Material Level 2,,Highly Restricted ,"Maps, specified desks",Senior Staff Member
+Maps,RMX,Maps Restricted Material Level 1,,Restricted,"Maps, specified desks",Upgraded Staff Member
+Maps,RMZ,Maps Restricted Material Level 2,,Highly Restricted,"Maps, specified desks",Senior Staff Member
 Music,RC1,Music - level 2 material,,Standard Access,"RB&M, any desks",All Users
 Music,RC3,Music - Very Select - level 2 material,,Standard Access,"RB&M, specified desks",All Users
-Music,RCX,Music Restricted Material Level 1,,Restricted ,"RB&M, specified desks",Upgraded Staff Member
-Music,RCZ,Music Restricted Material Level 2,,Highly Restricted ,"RB&M, specified desks",Senior Staff Member
+Music,RCX,Music Restricted Material Level 1,,Restricted,"RB&M, specified desks",Upgraded Staff Member
+Music,RCZ,Music Restricted Material Level 2,,Highly Restricted,"RB&M, specified desks",Senior Staff Member
 Printed Books,GEN,General - interavailable modern printed monographs,,Standard Access,"All Reading Rooms, any desks",All Users
 Printed Books,SER,General - interavailable printed serials,,Standard Access,"All Reading Rooms, any desks",All Users
 Rare Books,RK3,Maps - K Top Material for RB&M and Maps RRs only,,Standard Access,"RB&M and Maps, specified desks",All Users
 Rare Books,RR1,Rare Books - level 2 material,,Standard Access,"RB&M, any desks",All Users
 Rare Books,RR3,Rare Books - Very Select - level 2 material,,Standard Access,"RB&M, specified desks",All Users
-Rare Books,RRX,Rare Books Restricted Material Level 1,,Restricted ,"RB&M, specified desks",Upgraded Staff Member
-Rare Books,RRZ,Rare Books Restricted Material Level 2,,Highly Restricted ,"RB&M, specified desks",Senior Staff Member
+Rare Books,RRX,Rare Books Restricted Material Level 1,,Restricted,"RB&M, specified desks",Upgraded Staff Member
+Rare Books,RRZ,Rare Books Restricted Material Level 2,,Highly Restricted,"RB&M, specified desks",Senior Staff Member
 Western MSS,MSS,Common Manuscript Material,Common,Standard Access,"MSS, any desks",All Users
 Western MSS,SEL,Select Manuscript Material,Select,Special Access,"MSS, specified desks",Upgraded Reader
-Western MSS,ZSF,Restricted Manuscript Material,Restricted,Restricted ,"MSS, specified desks",Senior Staff Member
-Western MSS,ZSF,Z Safe Manuscript Material,Z Safe,Highly Restricted ,"MSS, specified desks",Senior Staff Member
+Western MSS,ZSF,Restricted Manuscript Material,Restricted,Restricted,"MSS, specified desks",Senior Staff Member
+Western MSS,ZSF,Z Safe Manuscript Material,Z Safe,Highly Restricted,"MSS, specified desks",Senior Staff Member
 ,CDM,Printed material with accompanying digital media,,,,
 ,TMU,Boston Spa Theses Unit,,,,
 ,SSC,Social Sciences Collection Material,,,,
