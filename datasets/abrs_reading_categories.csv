@@ -1,8 +1,6 @@
-Collection,Code,Description,Old Common Term,Access,Order To,Can Be Ordered By
-,GEN,General - interavailable modern printed monographs,,,All RRs,All users
+Collection,Read Cat,Description,Old Common Term,Access,Order To,Can Be Ordered By
 ,EAR,Interavailable level 2 material,,,"A&AS, RB&M, MSS, Maps",All users
 ,SS1,Social Sciences Collection Material Level 1,,,Science,SPIS Requesting
-,SER,General - interavailable printed serials,,,All RRs,All users
 APAC,ROA,Surrogates on Open Access,,Standard Access,Not Orderable On System,All Users
 APAC,RO1,AAS - level 2 material,,Standard Access,"A&AS, any desks",All Users
 APAC,RO3,AAS  - Very Select - level 2 material,,Standard Access,"A&AS, specified desks",All Users
@@ -26,12 +24,10 @@ Rare Books,RRX,Rare Books Restricted Material Level 1,,Restricted,"RB&M, specifi
 Rare Books,RRZ,Rare Books Restricted Material Level 2,,Highly Restricted,"RB&M, specified desks",Senior Staff Member
 Western MSS,MSS,Common Manuscript Material,Common,Standard Access,"MSS, any desks",All Users
 Western MSS,SEL,Select Manuscript Material,Select,Special Access,"MSS, specified desks",Upgraded Reader
-Western MSS,ZSF,Restricted Manuscript Material,Restricted,Restricted,"MSS, specified desks",Senior Staff Member
 Western MSS,ZSF,Z Safe Manuscript Material,Z Safe,Highly Restricted,"MSS, specified desks",Senior Staff Member
 ,CDM,Printed material with accompanying digital media,,,,
 ,TMU,Boston Spa Theses Unit,,,,
 ,SSC,Social Sciences Collection Material,,,,
-,SS1,Social Sciences Collection Material Level 1,,,,
 ,BSM,,,,,
 ,RR2,,,,,
 ,DSM,,,,,
